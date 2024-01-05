@@ -1,4 +1,11 @@
 ### Hi there 👋
+- 👋 Hi, I’m Daniel Pedroza
+- 👀 I’m interested in learn and do technology challenges
+- 👯 I’m open to collaborate on Open Source Projects
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/danielpedroza87/)
+- 😄 Pronouns: He/Him
+- 💬 Interesting topics: Machine Learning, Bloackchain, Software Architeture, Ecommerce and Entrepreneurship
+- ⚡ Fun fact: not a singer but loves to sing
 
 <!--
 **daniepusb/daniepusb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -7,6 +14,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
+- 🌱 I’m currently learning AWS
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
