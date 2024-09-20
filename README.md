@@ -7,7 +7,7 @@
 - 👯 I’m open to collaborate on Open Source Projects
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/danielpedroza87/)
 - 😄 Pronouns: He/Him
-- 💬 Interesting topics: Machine Learning, Bloackchain, Software Architeture, Ecommerce and Entrepreneurship
+- 💬 Interesting topics: Machine Learning, Bloackchain, Software Architecture, Ecommerce and Entrepreneurship
 - ⚡ Fun fact: not a singer but loves to sing
 
 ## Tech Skills:
